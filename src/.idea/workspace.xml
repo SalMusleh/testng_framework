@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6998419a-9454-4882-a67e-712a3fb87eca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/pages/EtsySearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/pages/GoogleSearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/pages/GoogleSearchResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/pages/TGApplicationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/scripts/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/scripts/_01_AppleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/scripts/_02_TechGlobalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/scripts/_03_EtsyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/scripts/_04_GoogleSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/testng_learning/_01_Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/testng_learning/_02_Priority_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/test-classes/scripts/Base.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/test-classes/scripts/_01_AppleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/test-classes/scripts/_02_TechGlobalTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/test-classes/scripts/_03_EtsyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../target/test-classes/utilities/Driver.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="29nuOHwEG3IC70BzCjmRYOa4fSB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6998419a-9454-4882-a67e-712a3fb87eca" name="Changes" comment="" />
+      <created>1653761136705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653761136705</updated>
+    </task>
+    <servers />
+  </component>
+</project>

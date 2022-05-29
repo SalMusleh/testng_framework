@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 82.967 sec <<< FAILURE! - in TestSuite
+testMainHeader(scripts._03_EtsyTest)  Time elapsed: 2.02 sec  <<< FAILURE!
+java.lang.AssertionError: expected [Father's Day Gifts] but found [Shop Home Sales!]
+	at scripts._03_EtsyTest.testMainHeader(_03_EtsyTest.java:99)
+
+testExpediaDropdowns(scripts._07_DropdownTest)  Time elapsed: 21.111 sec  <<< FAILURE!
+org.openqa.selenium.StaleElementReferenceException: 
+stale element reference: element is not attached to the page document
+  (Session info: chrome=102.0.5005.61)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Salahs-MacBook-Pro.local', ip: '2601:243:1500:38c0:0:0:0:c8e2%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.4', java.version: '18.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.61, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: /var/folders/68/18dhcxr13jz...}, goog:chromeOptions: {debuggerAddress: localhost:60022}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ecc45acd66d42e52468e420d29ee3d3f
+	at scripts._07_DropdownTest.testExpediaDropdowns(_07_DropdownTest.java:82)
+
