@@ -16,7 +16,7 @@ public class _02_TechGlobalTest extends Base{
     public void testApplicationFormHeading(){
         driver.get("https://www.techglobalschool.com/apply-now");
 
-        Assert.assertTrue(tgApplicationPage.heading1.isDisplayed());
+        //Assert.assertTrue(tgApplicationPage.heading1.isDisplayed());
         Assert.assertEquals(tgApplicationPage.heading1.getText(), "Application Form"); //fails
     }
 }
